@@ -279,7 +279,7 @@ document.addEventListener('DOMContentLoaded', () => {
 if (resumeBtn) {
     resumeBtn.addEventListener('click', (e) => {
         e.preventDefault();
-        window.open('resume/Harsh_Rawte_AI_Resume.pdf', '_blank');
+        window.open('resume/Harsh_Resume.pdf', '_blank');
     });
 }
 
